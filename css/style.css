@@ -1,0 +1,44 @@
+.left-margin {
+    margin: 0 .5em 0 0;
+}
+
+.right-button-margin {
+    margin: 0 0 1em 0;
+    overflow: hidden;
+}
+
+/* modal */
+
+.modal-body {
+    padding: 20px 20px 0px 20px !important;
+    text-align: center !important;
+}
+
+.modal-footer {
+    text-align: center !important;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.head_td {
+  background-color: #337ab7;
+  color: white;
+  width: 30%;
+}
+
+.smal_male_td {
+  background-color: rgb(110 69 249 / 40%);
+}
+.male_td {
+  background-color: rgb(110 69 249 / 60%);
+}
+.smal_fmale_td {
+  background-color: rgba(233, 226, 15, 0.824);
+}
+.fmale_td {
+  background-color: rgba(225, 196, 2, 0.6);
+}
+
